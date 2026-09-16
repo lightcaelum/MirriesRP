@@ -4,9 +4,9 @@
 	"parent": "celular",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/tela",
-		"1": "server-icon (1) (2)",
-		"particle": "block/tela"
+		"0": "item/tela",
+		"1": "item/celular_costas",
+		"particle": "item/tela"
 	},
 	"elements": [
 		{
